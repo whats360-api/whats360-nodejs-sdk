@@ -1,6 +1,6 @@
-# Whats360 Node.js SDK (WhatsApp API for Node.js)
+# whats360.live Node.js SDK (WhatsApp API for Node.js)
 
-Small, dependency-free Node.js client (Node 18+) for the [Whats360](https://whats360.live) WhatsApp API: send text, image, video, audio and documents, manage devices, run campaigns.
+Small, dependency-free Node.js client (Node 18+) for the [whats360.live](https://whats360.live) WhatsApp API: send text, image, video, audio and documents, manage devices, run campaigns.
 
 ```js
 const { Whats360 } = require('./index');
@@ -20,4 +20,4 @@ Errors throw `Whats360Error` with `.status` and `.body`. See [error codes](https
 - `addRecipients` body shape is not documented in the official source.
 - Never commit your token. Docs: https://github.com/whats360-api/whats360-api-docs
 
-Support: https://wa.me/whats360.live · info@whats360.live
+WhatsApp: https://wa.me/whats360.live · Direct chat support: https://wa.me/201030741766 · info@whats360.live
