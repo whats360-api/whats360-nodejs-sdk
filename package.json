@@ -1,0 +1,12 @@
+{
+  "name": "whats360-api",
+  "version": "0.1.0",
+  "description": "Node.js client for the Whats360 WhatsApp API: send messages, manage devices, run campaigns.",
+  "main": "index.js",
+  "scripts": { "test": "node --test client.test.js" },
+  "engines": { "node": ">=18" },
+  "keywords": ["whatsapp","whatsapp-api","whats360","nodejs","whatsapp-bulk-messaging","webhook"],
+  "homepage": "https://whats360.live",
+  "repository": { "type": "git", "url": "git+https://github.com/whats360-api/whats360-nodejs-sdk.git" },
+  "license": "MIT"
+}
