@@ -1,7 +1,7 @@
 {
   "name": "whats360-api",
   "version": "0.1.0",
-  "description": "Node.js client for the Whats360 WhatsApp API: send messages, manage devices, run campaigns.",
+  "description": "Node.js client for the whats360.live WhatsApp API: send messages, manage devices, run campaigns.",
   "main": "index.js",
   "scripts": { "test": "node --test client.test.js" },
   "engines": { "node": ">=18" },
